@@ -1,0 +1,32 @@
+_repo: Heimat-Erzahlungen_67701
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schieber, Anna
+    birthdate: 1867
+    deathdate: 1945
+    gutenberg_agent_id: '37014'
+    url: http://www.gutenberg.org/2009/agents/37014
+    wikipedia: https://de.wikipedia.org/wiki/Anna_Schieber
+description: ''
+gutenberg_issued: '2022-03-24'
+identifiers:
+  gutenberg: '67701'
+language: de
+pgterms:marc905: 20200223012820schieber
+pgterms:marc906: '1915'
+pgterms:marc907: de
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: Germany :Eugen Salzer,1915.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, German'
+- !lcc 'PT'
+- !lcsh 'German fiction -- 20th century'
+- GITenberg
+tableOfContents: Der Tunichtgut -- Zum zweitenmal -- Von der stummen Kreatur -- Nichts
+  Besonderes -- Heimat.
+title: 'Heimat: Erzählungen'
+url: http://www.gutenberg.org/ebooks/67701
